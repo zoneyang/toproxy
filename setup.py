@@ -16,7 +16,7 @@ setup(
     url='http://xiaorui.cc',
     author='ruifengyun',
     author_email='rfyiamcool@163.com',
-    install_requires=['tornado'],
+    install_requires=['tornado==4.3'],
     packages=['toproxy'],
     license = "MIT",
     classifiers = [
