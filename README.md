@@ -20,6 +20,7 @@
 方法1:
 
 ```
+python2.7先执行：pip install tornado==4.3
 pip install toproxy
 ```
 
